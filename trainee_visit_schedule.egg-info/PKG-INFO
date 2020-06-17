@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: trainee-visit-schedule
+Version: 0.1.0
+Summary: trainee visit schedule
+Home-page: https://github.com/ThatoKgamaetsile/trainee_visit_schedule
+Author: BHP Software Engineering & Data Management Center
+Author-email: tkgamaetsile@bhp.org.bw
+License: GPL license, see LICENSE
+Description: # trainee_visit_schedule
+        
+Keywords: trainee visit schedule
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content

@@ -7,7 +7,7 @@ visit_schedule1 = VisitSchedule(
     verbose_name='Trainee',
     offstudy_model='trainee_prn.subjectoffstudy',
     locator_model='trainee_subject.subject_locator',
-    death_report_model='trainee_subject.death_report',
+    death_report_model='trainee_prn.death_report',
     previous_visit_schedule=None)
 
 visit_schedule1.add_schedule(schedule1)
